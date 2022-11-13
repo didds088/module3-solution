@@ -1,0 +1,36 @@
+body {
+	background-color: #800000 ;
+	font-size: 16px;
+	color: #fff;
+	font-family: 'Oxygen', sans-serif;
+}
+#nav-header {
+	background-color: #f6b319;
+}
+.navbar-brand {
+	color: #557C3E;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+.nav-item {
+	background-color: #36454F;
+	color: #fff;
+	font-size: 1.3em;
+}
+.nav-item:nth-child(1), .nav-item:nth-child(2) {
+	width: 100% !important ;
+	border-bottom: 1px solid #557C3E;
+}
+#our-menu {
+	background-color: #4A0404;
+	min-height: 1000px;
+}
+.navbar-toggler:focus, .navbar-toggler:active, .navbar-toggler-icon:focus, .navbar-toggler:hover{
+    outline: none ;
+    box-shadow: none ;
+    background-color: #800000;
+}
+.navbar-toggler {
+	background-color: #800000;
+	color: #fff;
+}
