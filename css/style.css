@@ -23,7 +23,6 @@ body {
 }
 #our-menu {
 	background-color: #4A0404;
-	min-height: 1000px;
 }
 .navbar-toggler:focus, .navbar-toggler:active, .navbar-toggler-icon:focus, .navbar-toggler:hover{
     outline: none ;
