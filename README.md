@@ -1,3 +1,3 @@
-# Module 3 Coding Assignmen
+# Module 3 Coding Assignment
 
 ## Coursera John Hopkins course
